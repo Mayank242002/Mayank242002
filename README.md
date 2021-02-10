@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Mayank242002/Mayank242002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on frontend.
+- 🌱 I’m currently learning javascript.
+- 👯 I’m looking to collaborate on github.
+- 🤔 I’m looking for help with API's.
+- 💬 Ask me about web design and any tech related stuff.
+- 📫 How to reach me: instagram-@i.melody.i
+- 😄 Pronouns: He/He's
+- ⚡ Fun fact: I Love Travelling and Exploring New Places.
+
