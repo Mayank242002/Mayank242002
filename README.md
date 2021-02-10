@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with API's.
 - 💬 Ask me about web design and any tech related stuff.
-- 📫 How to reach me: instagram-@i.melody.i
+- 📫 How to reach me: msngi24july@gmail.com
 - 😄 Pronouns: He/He's
 - ⚡ Fun fact: I Love Travelling and Exploring New Places.
 
