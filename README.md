@@ -1,6 +1,6 @@
-### Heya! I'm Mayank Singh Negi 👋
+# <h1 align="center">Heya! I'm Mayank Singh Negi 👋</h1>
 
-### I'm a Student, Coder, Developer!!
+### <h1 align="center">I'm a Student, Coder, Developer!!</h1>
 
 
 
