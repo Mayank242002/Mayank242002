@@ -8,9 +8,6 @@
 <h5 align="center">- 🔭 I’m currently working on frontend.</h5>
 <h5 align="center">- 🌱 I’m currently learning javascript.</h5>
 <h5 align="center">- 👯 I’m looking to collaborate on github.</h5>
-<h5 align="center">- 🤔 I’m looking for help with API's.</h5>
-<h5 align="center">- 💬 Ask me about web design and any tech related stuff.</h5>
 <h5 align="center">- 📫 How to reach me: msngi24july@gmail.com</h5>
-<h5 align="center">- 😄 Pronouns: He/He's</h5>
 <h5 align="center">- ⚡ Fun fact: I Love Travelling and Exploring New Places.</h5>
 
