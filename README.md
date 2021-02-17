@@ -1,6 +1,6 @@
 # <h1 align="center">Heya! I'm Mayank Singh Negi 👋</h1>
 
-### <h1 align="center">I'm a Student, Coder, Developer!!</h1>
+### <h3 align="center">I'm a Student, Coder, Developer!!</h1>
 
 
 
