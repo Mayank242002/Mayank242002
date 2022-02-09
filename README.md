@@ -5,7 +5,7 @@
 
 ## Introduction
 
-- 🌱 I’m currently learning DSA and Web Development.
+- 🌱 I’m currently learning DSA and Python.
 - 👯 I’m looking to collaborate on github.
 - 📫 How to reach me: msngi24july@gmail.com.
 - ⚡ Fun fact: I Love Travelling and Exploring New Places.
